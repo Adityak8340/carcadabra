@@ -68,3 +68,5 @@ if 'model' in locals():
         st.success(f"You can sell the car at {output} lakhs")
 else:
     st.warning("Model not loaded, cannot make predictions.")
+
+st.image('carcadabra.png', use_column_width=True)
