@@ -2,7 +2,7 @@
 
 Welcome to **CarCadabra**, your magical tool for predicting the resale value of your car! This Streamlit application leverages a machine learning model to provide accurate predictions based on various parameters.
 
-![CarCadabra](carcadabra_image.png)
+![magic](https://github.com/sisoenejdbkdkdkkddkdkkd/CarCadabra/assets/169921011/d88c6ac0-0a6b-4481-b5cb-70d0f25b947f)
 
 ## Features
 
