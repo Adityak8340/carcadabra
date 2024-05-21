@@ -1,3 +1,5 @@
 .env
 car data.csv
 notebook.ipynb
+.vscode/
+env/
